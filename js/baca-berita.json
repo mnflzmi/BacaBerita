@@ -1,0 +1,59 @@
+{
+    "menu": [
+        {
+            
+            "nama": "Meat Lover",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "Positif COVID-19 di Indonesia Naik Jadi 1.986 Kasus, 134 Sembuh",
+            "deskripsi": "– Juru Bicara Pemerintah untuk Penanganan COVID-19 Achmad Yurianto dalam jumpa pers Gugus Tugas Percepatan Penanganan COVID-19.",
+            "button": "blog1.html",
+            "gambar": "achmad.png"
+        },
+        {
+            
+            "nama": "Super Supreme",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "Kepada Jokowi, Xi Nyatakan China Siap Bantu Indonesia Atasi COVID-19",
+            "deskripsi": " – Presiden China Xi Jinping menyatakan bahwa pemerintahannya siap memberikan dukungan dan bantuan kepada Indonesia untuk mengatasi epidemi COVID-19.",
+            "button": "blog2.html",
+            "gambar": "jokowi.png"
+        },
+        {
+            
+            "nama": "Tuna Melt",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "KPU Tunda 3 Tahapan Pilkada 2020 Gegara Corona",
+            "deskripsi": "– Komisi Pemilihan Umum (KPU) menunda 3 tahapan pelaksanaan Pilkada 2020. Penundaan itu untuk mencegah penyebaran virus Corona COVID-19. “Menunda 3 tahapan penyelenggaraan pilkada,” ujar Viryan Aziz.",
+            "button": "blog3.html",
+            "gambar": "pilkada.png"
+        },
+        {
+            
+            "nama": "American Favourite",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "Marko Simic Sumbang Rp100 Juta untuk Bantu Lawan Corona",
+            "deskripsi": "– Penyerang Persija Jakarta Marko Simic menyumbangkan uang sebesar Rp100 juta untuk membantu Indonesia menghadapi pandemi COVID-19.",
+            "button": "blog4.html",
+            "gambar": "b4.png"
+        },
+        {
+            
+            "nama": "Beef Spaghetti",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "Heboh Corona, KPK: Proses Penyidikan Berjalan seperti Biasa",
+            "deskripsi": "– Pelaksana Tugas (Plt) Juru Bicara Komisi Pemberantasan Korupsi (KPK) Ali Fikri mengatakan lembaganya tetap menjalankan proses penyidikan seperti biasa.",
+            "button": "blog5.html",
+            "gambar": "b5.png"
+        },
+        {
+            
+            "nama": "Beef Lasagna",
+            "tanggal" : "2020-04-05 / 09:10:16",
+            "judul" : "Spesialis Curat Diringkus Resmob Polsek Panakukang",
+            "deskripsi": " – Anggota Polsek Panakukang kembali lagi berhasil mengamankan satu pelaku Pencurian Serta Pemberatan ( Curat) yakni, Jayadi Alias Jaya (26).",
+            "button": "blog6.html",
+            "gambar": "b6.png"
+        }
+        
+    ]
+}
